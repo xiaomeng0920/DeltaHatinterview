@@ -4,7 +4,7 @@
 
 
 #load packages
-pacman::p_load("dplyr","haven", "ggplot2","png","gtsummary","gt","survival","survminer","muhaz","survRM2")
+pacman::p_load("dplyr","haven","officer","flextable", "ggplot2","png","gtsummary","gt","survival","survminer","muhaz","survRM2")
 
 
 #1. Read data --------------------------------------------------------------------------------------------
